@@ -1,0 +1,18 @@
+.custom-control-label {
+    margin: 5px;
+}
+.my-2 {
+    display: flex;
+    margin-left: 15vw;
+    padding: 5px;
+
+}
+.lead{
+    display: flex;
+    margin-left: 10vw;
+
+}
+.result{
+    height: 15vh;
+    margin-top: 5vh;
+}
